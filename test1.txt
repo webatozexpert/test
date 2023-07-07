@@ -1,3 +1,4 @@
 dfbdfgbdfbdggit 
 this is the second line
-this is third line
+this is the third line
+logo alignment center
